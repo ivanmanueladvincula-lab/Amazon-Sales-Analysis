@@ -1,4 +1,4 @@
-# Amazon India Sales Performance Analytics
+# Amazon Sales Performance Analytics
 
 ## 📌 Project Overview
 This repository contains a complete end to end data analytics pipeline. My goal for this project was to analyze over 120,000 raw ecommerce records from Amazon India to uncover operational bottlenecks, track fulfillment efficiency, and visualize $78.59M in generated revenue. 
